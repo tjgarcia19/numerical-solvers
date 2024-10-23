@@ -31,9 +31,8 @@ Click the 'Run App' button and it should open the application.
 ###	For more information about the application, read the provided User's Manual (users_manual.pdf)
 
 ## Author:
-Trestan Janos G. Garcia
-2018-67985
-BS Computer Science
-Institute of Computer Science
-College of Arts and Sciences
+Trestan Janos G. Garcia \
+BS Computer Science \
+Institute of Computer Science \
+College of Arts and Sciences \
 University of the Philippines Los Banos
